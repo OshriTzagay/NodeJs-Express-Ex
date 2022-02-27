@@ -1,0 +1,16 @@
+{
+  "name": "test-express-app",
+  "version": "1.0.0",
+  "description": "This is TEST MF",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "go":"nodemon node test.js"
+  },
+  "author": "Tzugs",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
